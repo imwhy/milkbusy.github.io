@@ -146,8 +146,8 @@ h2{
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #000;
+    color: #000;
     background-color: transparent;
 }
 
@@ -168,7 +168,14 @@ header .header-content {
 {
     background-color: black;
     text-align: center;
-    padding: 50px;
+    padding: 40px;
+}
+.text-frame{
+    height: 600px;
+    padding-top: 80px;
+    font-size: 24px;
+    font-family: Helvetica,'Hiragino Sans GB','Microsoft Yahei','微软雅黑',Arial,sans-serif;
+
 }
 
 /*header .header-content .header-content-inner h1 {
